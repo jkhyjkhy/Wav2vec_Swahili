@@ -1,0 +1,4 @@
+Language: Swahili
+Google colab share from Mohamed
+Github create repo from Hyunjoo
+Pretrained model: wave2vec
