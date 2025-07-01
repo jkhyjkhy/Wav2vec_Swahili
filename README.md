@@ -1,4 +1,8 @@
 # LR_ASR
+@jkhyjkhy
+@annettehjc
+@chyulle
+@Khattab273
 
 ##### Transcription Function(Added on 12.06.2025)
 
