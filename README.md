@@ -1,9 +1,10 @@
 # LR_ASR
-@jkhyjkhy
-@annettehjc
-@chyulle
-@Khattab273
-
+##### Contributors: 
+@jkhyjkhy  
+@annettehjc  
+@chyulle  
+@Khattab273  
+@Sanwantori-bai
 ##### Transcription Function(Added on 12.06.2025)
 
 Here, We provide a simple `transcribe()` helper that takes a path to a WAV file, runs it through our Wav2Vec2 ASR pipeline, and returns a decoded string.
