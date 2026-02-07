@@ -15,8 +15,10 @@ tags:
 metrics:
 - wer
 model-index:
-- name: wav2vec2-large-xlsr-sw-ASR
-  results: []
+- name: wav2vec2-large-xlsr-sw-ASR  
+  results: [
+  wer: 0.2453
+  ]
 ---
 
 <!-- This model card has been generated automatically according to the information the Trainer had access to. You
